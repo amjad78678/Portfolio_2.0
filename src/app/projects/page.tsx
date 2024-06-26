@@ -1,17 +1,15 @@
 import ProjectCard from '@/components/ProjectCard'
-import { Spotlight } from '@/components/ui/Spotlight'
-import { Boxes } from '@/components/ui/background-boxes'
 import React from 'react'
+import projectData from '../../data/project_data.json'
 
 const Projects = () => {
   return (<div className='bg-black/[0.96] antialiased '>
 <div className='grid sm:grid-cols-3 gap-5'>
-<ProjectCard/>
-<ProjectCard/>
-<ProjectCard/>
-<ProjectCard/>
-<ProjectCard/>
-<ProjectCard/>
+    {projectData.projects.map((project)=>(
+
+<ProjectCard key={project.id} {...{image: project.image, title: project.title, description: project.description,github: project.github,live: project.live}} />
+
+))}
 </div>
 
     </div>

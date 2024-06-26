@@ -5,6 +5,7 @@
       "title": "GymHub",
       "description": "GymHub: A MERN stack platform connecting gyms, trainers, and fitness enthusiasts. Features include subscription management, real-time chat, secure payments, location services, and push notifications. Built with TypeScript, MUI, Redux, and Clean Architecture, it offers a comprehensive solution for gym management and user engagement.",
       "github": "https://github.com/amjad78678/Gym.hub_frontend",
+      "live": "https://gym-hub-frontend.vercel.app/",
       "image": "https://res.cloudinary.com/dkxtgziy2/image/upload/v1719403878/important/Screenshot_2024-06-26_174040_riom9v.png",
       "date": "2024-06-26T12:12:02.646Z"
     },
@@ -13,6 +14,7 @@
       "title": "Cornerstone",
       "description": "Cornerstone: An e-commerce platform for watches, built with Node.js, Express.js, and MongoDB. Features include dynamic product showcases, referral rewards, coupon system, wallet management, and multiple payment options. The admin dashboard provides sales insights and reporting. Hosted on AWS, it offers a seamless shopping experience with efficient order and inventory management.",
       "github": "https://github.com/amjad78678/Cornerstone_Ecom.git",
+      "live": "https://cornerston.shop/",
       "image": "https://res.cloudinary.com/dkxtgziy2/image/upload/v1719405205/important/Screenshot_2024-06-26_180250_pon5sd.png",
       "date": "2024-05-16T12:12:02.000Z"
     }
