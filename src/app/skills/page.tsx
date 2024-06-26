@@ -1,5 +1,7 @@
 import React from 'react'
 import Image from 'next/image';
+import { Meteors } from '@/components/ui/meteors';
+import { WavyBackground } from '@/components/ui/wavy-background';
 
 const skills = [
   { name: 'JavaScript', icon: '/icons/javascript.png' },
@@ -17,7 +19,8 @@ const skills = [
 ];
 const Skills = () => {
   return (
-    <div className=" text-white py-12 z-30">
+      <WavyBackground>
+    <div className=" text-white my-12 z-30">
     <div className="container mx-auto">
       <h2 className="text-4xl font-bold text-center mb-8">Skills</h2>
       <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-8">
@@ -36,7 +39,9 @@ const Skills = () => {
         ))}
       </div>
     </div>
+
   </div>
+    </WavyBackground>
   )
 }
 

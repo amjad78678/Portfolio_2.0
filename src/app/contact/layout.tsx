@@ -12,7 +12,6 @@ export default function RootLayout({
         className="-top-40 left-0 md:left-60 md:-top-20"
         fill="white"
       />
- <Boxes />
  <div className="mt-28">
 
       {children}
