@@ -1,6 +1,14 @@
+import HeroSection from '@/components/HeroSection'
+import React from 'react'
 
-export default function Home() {
+const Home = () => {
   return (
-     <h1 className="text-2xl border border-black text-center">Mohammed amjad ali</h1>
-  );
+    <main className='min-h-screen bg-black/[0.96] antialiased bg-grid-white/[0.2]'>
+
+      <HeroSection/>
+    </main>
+
+  )
 }
+
+export default Home
