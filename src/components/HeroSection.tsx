@@ -3,6 +3,7 @@ import React from 'react'
 import { Spotlight } from './ui/Spotlight'
 import { Button } from "./ui/moving-border";
 import { TypewriterEffectSmooth } from './ui/typewriter-effect';
+import Image from 'next/image';
 
 const HeroSection = () => {
     const words = [
@@ -30,6 +31,10 @@ const HeroSection = () => {
         fill="white"
       />
         <div className='p-4 relative z-10 w-full text-center'>
+            {/* <div className='flex justify-center'>
+
+            <Image className='rounded-full mt-36 mb-4' width={150} height={150} src="https://res.cloudinary.com/dkxtgziy2/image/upload/v1719401829/important/WhatsApp_Image_2024-05-29_at_15.02.21_7ef0bb41_edynej.jpg" alt="" />
+            </div> */}
 
 <h1 className='mt-20 md:mt-0 text-4xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400'>
 
