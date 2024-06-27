@@ -17,6 +17,42 @@
       "live": "https://cornerston.shop/",
       "image": "https://res.cloudinary.com/dkxtgziy2/image/upload/v1719405205/important/Screenshot_2024-06-26_180250_pon5sd.png",
       "date": "2024-05-16T12:12:02.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Youtube Clone",
+      "description": "This project reimagines YouTube using React and Redux, featuring live API search, nested comments, infinite scroll, and live chat functionality. It showcases efficient, user-centric design with modern web technologies, creating an engaging and dynamic video platform.",
+      "github": "https://github.com/amjad78678/Youtube_Clone.git",
+      "live": "https://github.com/amjad78678/Youtube_Clone.git",
+      "image": "https://res.cloudinary.com/dkxtgziy2/image/upload/v1719471835/important/Screenshot_2024-06-27_122548_hiiwrw.png",
+      "date": "2024-05-16T12:12:02.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Burger Store",
+      "description": "Created a Tailwind-based a restaurant website with Swiggy API integration. Implemented React Loading Skeleton for shimmer effects, React Router DOM for navigation, and Redux for state management. Utilized a config-driven approach for scalability and maintainability.",
+      "github": "https://github.com/amjad78678/Burger_React.git",
+      "live": "https://github.com/amjad78678/Burger_React.git",
+      "image": "https://res.cloudinary.com/dkxtgziy2/image/upload/v1719471850/important/Screenshot_2024-06-27_123210_qd51ya.png",
+      "date": "2024-05-16T12:12:02.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Olx Clone",
+      "description": "Built an OLX clone using Firebase for seamless user authentication and real-time updates, ensuring a secure and dynamic marketplace experience.",
+      "github": "https://github.com/amjad78678/Olx_clone.git",
+      "live": "https://github.com/amjad78678/Olx_clone.git",
+      "image": "https://res.cloudinary.com/dkxtgziy2/image/upload/v1719471878/important/Screenshot_2024-06-27_122907_ifh8vx.png",
+      "date": "2024-05-16T12:12:02.000Z"
+    },
+    {
+      "id": 6,
+      "title": "Netflix Clone",
+      "description": "Created a Netflix-inspired platform powered by Firebase, offering smooth user authentication and real-time content updates for an immersive streaming experience.",
+      "github": "https://github.com/amjad78678/Netflix_clone.git",
+      "live": "https://github.com/amjad78678/Netflix_clone.git",
+      "image": "https://res.cloudinary.com/dkxtgziy2/image/upload/v1719471866/important/Screenshot_2024-06-27_123041_zmtngc.png",
+      "date": "2024-05-16T12:12:02.000Z"
     }
   ]
 }

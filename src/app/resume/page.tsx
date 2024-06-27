@@ -15,7 +15,12 @@ const Resume = () => {
 
             </div>
     <div className='mx-auto inline-flex justify-center hover:cursor-pointer z-20'>
-            <Link href={'/'}>
+            <Link href={'/misc/Resume_Mohammed_Amjad_Ali.pdf'}
+            target='_blank'
+            rel="noopener noreferrer"
+            download="Resume_Mohammed_Amjad_Ali.pdf"
+  className="inline-block"
+            >
     <Button
         borderRadius="1rem"
         className="dark:cursor-pointer  dark:text-white dark:border-slate-800"
