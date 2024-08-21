@@ -44,7 +44,7 @@ const ProjectCard = ({
             {description.substring(0, 150) + "..."}
           </CardItem>
           <div className="flex justify-between items-center mt-4">
-            <CardItem 
+            <CardItem
               translateZ={20}
               as={Link}
               href={live}
