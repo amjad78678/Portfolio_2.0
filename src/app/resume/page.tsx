@@ -53,7 +53,7 @@ const Resume = () => {
 
         <ContainerScroll titleComponent={<></>}>
           <Image
-            src="https://res.cloudinary.com/dkxtgziy2/image/upload/v1719415680/important/Resume_Mohammed_Amjad_Ali-1_va38fu.png"
+            src="https://res.cloudinary.com/dkxtgziy2/image/upload/v1724216319/important/Resume_Mohammed_Amjad_Ali_page-0001_p25sau.jpg"
             alt="hero"
             width={1000}
             height={1000}
