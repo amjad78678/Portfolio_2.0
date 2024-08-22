@@ -24,10 +24,7 @@ export const BoxesCore = ({ className, ...rest }: { className?: string }) => {
 
   return (
     <div
-      className={cn(
-        "fixed inset-0 w-full h-full overflow-hidden",
-        className
-      )}
+      className={cn("fixed inset-0 w-full h-full overflow-hidden", className)}
       {...rest}
     >
       <div className="absolute inset-0 w-full h-full">
