@@ -23,7 +23,7 @@
       "title": "Lama",
       "description": "Lama: I developed a project management website called 'Lama' as part of a machine task. The project integrates image uploading using AWS S3 and features an enhanced UI with animations through Framer Motion.",
       "github": "https://github.com/amjad78678/Lama_Frontend.git",
-      "live": "http://lama-frontend.s3-website.ap-south-1.amazonaws.com/",
+      "live": "https://lama-frontend-neon.vercel.app/",
       "image": "https://res.cloudinary.com/dkxtgziy2/image/upload/v1724215775/important/Screenshot_2024-08-21_101831_myrhnw.png",
       "date": "2024-06-16T12:12:02.000Z"
     },
